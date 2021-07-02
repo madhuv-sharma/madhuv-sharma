@@ -29,7 +29,8 @@ or <a href="mailto:madhuvsharma1234@gmail.com"><b>email</b></a> me
 
 <a href="https://www.linkedin.com/in/madhuv-sharma-19072a204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/madhuv.sharma.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
+<a href="https://twitter.com/madhuv_sharma" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter"></a>
+  
 </div>
 
 Last Edited on: 01/07/2021
