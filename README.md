@@ -26,10 +26,10 @@ or <a href="mailto:madhuvsharma1234@gmail.com"><b>email</b></a> me
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/madhuv-sharma-19072a204//">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/madhuv-sharma/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.facebook.com/madhuv.sharma.1">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●-->
 
-<a href="https://www.linkedin.com/in/madhuv-sharma-19072a204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/madhuv-sharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/madhuv.sharma.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <!--
 <a href="https://twitter.com/madhuv_sharma" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter"></a>
@@ -37,7 +37,7 @@ or <a href="mailto:madhuvsharma1234@gmail.com"><b>email</b></a> me
   
 </div>
 
-Last Edited on: 15/07/2021
+Last Edited on: 28/07/2021
 
 <!--
 **madhuv-sharma/madhuv-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
